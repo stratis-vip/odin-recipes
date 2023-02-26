@@ -1,0 +1,44 @@
+body {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #00ff0010;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  border: black solid thick;
+  padding: 5px;
+}
+
+.title {
+  color: #ff000070;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+ul,
+ol {
+  list-style-type: none;
+  padding-left: 10px;
+  margin: 0;
+}
+
+li {
+  padding-top: 5px;
+}
+
+h2 {
+  margin: 3rem 0 0.5rem 0;
+}
+
+footer {
+  margin-top: 3rem;
+}
+
+a {
+  text-decoration: none;
+}

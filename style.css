@@ -1,0 +1,36 @@
+/*index page */
+.title {
+  font-size: 34px;
+  color: #ff000045;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+  width: 50%;
+}
+
+li {
+  margin: 0;
+  padding: 10px 30px;
+  display: inline;
+  background-color: #ff000060;
+}
+
+li:hover {
+  background-color: #ff000090;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #0000ff75;
+}
+
+footer {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 1rem;
+}
